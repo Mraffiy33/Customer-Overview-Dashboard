@@ -1,1 +1,15 @@
-# dashboard-experiment
+# Overview
+This repository contains a Google Analytics Dashboard created using Looker Studio. The dashboard provides valuable insights into user behavior, demographics, and engagement for a website/application. The data sample used is from Google Analytics.
+
+# Dashboard Features
+The dashboard showcases the following key metrics:
+
+1. Sessions by Continent: Visualizes the distribution of user sessions based on continents, allowing analysis of geographical reach and user engagement across different regions.
+
+2. Sessions Timeline: Displays the timeline of user sessions over a specific period, enabling the identification of patterns, trends, and peak activity periods.
+
+3. Users by Genders: Presents a breakdown of users based on their genders, providing insights into the gender composition of the user base.
+
+4. Bounce Rate by Genders: Highlights the bounce rate percentage for male and female users separately, aiding in the identification of any significant differences in bounce rates between genders.
+
+5. Pages/Sessions by Genders: Demonstrates the average number of pages viewed per session, segmented by gender. This metric allows for an analysis of the engagement levels and browsing habits of male and female users.
