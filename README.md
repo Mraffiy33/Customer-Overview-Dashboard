@@ -1,3 +1,5 @@
+Access the Looker Studio dashboard [here](https://lookerstudio.google.com/u/0/reporting/f984c6d1-651b-46aa-8511-009cd6251348/page/7ctPD).
+
 # Overview
 This repository contains a Google Analytics Dashboard created using Looker Studio. The dashboard provides valuable insights into user behavior, demographics, and engagement for a website/application. The data sample used is from Google Analytics.
 
