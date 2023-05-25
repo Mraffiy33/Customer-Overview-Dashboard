@@ -13,3 +13,8 @@ The dashboard showcases the following key metrics:
 4. Bounce Rate by Genders: Highlights the bounce rate percentage for male and female users separately, aiding in the identification of any significant differences in bounce rates between genders.
 
 5. Pages/Sessions by Genders: Demonstrates the average number of pages viewed per session, segmented by gender. This metric allows for an analysis of the engagement levels and browsing habits of male and female users.
+
+# Dependencies
+Looker Studio: This dashboard relies on Looker Studio for data visualization and exploration. Make sure you have an active Looker Studio account and proper access permissions.
+
+Google Analytics Data Sample: The data used in this dashboard is sourced from Google Analytics. Ensure you have access to the Google Analytics data sample or substitute it with your own dataset.
